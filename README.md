@@ -1,6 +1,8 @@
-## Hi there 👋
+#### Hi there 👋
+# My name is Celalma
+I am a young programmer and i design websites, create games and watch Youtube a lot.
 
-What i'm working on :
+## What i'm working on :
 <details>
   <summary>Click to show/hide</summary>
 
@@ -15,6 +17,10 @@ What i'm working on :
 I'm currently working on a Minecraft clone prototype entirely in Turbowarp ( a scratch mod) with the help of extension such as Simple3D. As i'm currently encountering some issues and limitations, this project's developpment is slowed down. If you want to help, feel free to reach out !
   
 </details>
+
+## Wanna talk?
+  
+Feel free to reach out at <a href="mailto:celalma.contact@gmail.com">celalma.contact@gmail.com</a>
 
 <!--
 **celalma/celalma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
