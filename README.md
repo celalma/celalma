@@ -9,6 +9,10 @@ I am a young programmer and i design websites, create games and watch Youtube a 
 - ### [Docs](https://github.com/celalma/docs)
 **Docs** is a repo where I share guides and tutorials about a bunch of things such as games, coding, and so on.
 
+- ### [Maia](https://github.com/celalma/maia)
+**Maia** is a simple, warm‑themed chat application inspired by Discord and Snapchat, built for small communities, friends, and gaming groups.
+It focuses on clarity, simplicity, and a clean UI — but still adapted for real‑time chatting.
+
 - ### [Morpheus](https://github.com/celalma/morpheus)
 **Morpheus** is an simple online code editor designed for efficiency. Currently only supports HTML and CSS. 
 
